@@ -1,2 +1,0 @@
-this is my test file
-it's a text file.
